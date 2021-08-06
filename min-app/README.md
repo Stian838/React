@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Tre på rad
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dette prosjektet er laga ved å følgje [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 ## Available Scripts
 
